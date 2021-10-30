@@ -1,0 +1,3 @@
+Fixes
+
+- Spawning rocks shouldn't crash the game now

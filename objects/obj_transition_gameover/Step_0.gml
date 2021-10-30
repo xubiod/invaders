@@ -1,0 +1,1 @@
+if (check_throw_status(global.player_mapping)[0]) global.quick_restart ^= true;
